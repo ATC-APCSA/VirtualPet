@@ -30,14 +30,14 @@ Sample Virtual Pet Pages:
 [Yailyn](https://yailyn441.github.io/VirtualPet/) <br>
 [Leto](https://khilitt.github.io/VirtualPet/) <br>
 [Rosa](https://rosapplesauce.github.io/VirtualPet/) <br>
-[Elena] (https://elenachavez0331.github.io/VirtualPet/) <br>
-[Ryan] ( ) <br>
-[Trinley] () <br>
-[Leto] ( ) (https://khilitt.github.io/VirtualPet/) <br>
-[Melanie] ( ) <br>
-[Rosa] ( ) (https://rosapplesauce.github.io/VirtualPet/) <br>
-[Diego] ( ) <br>
-[Nico] ( ) (https://nicolastaccetti.github.io/NTVirtualPet/) <br>
-[Giselle] ( ) <br>
+[Elena](https://elenachavez0331.github.io/VirtualPet/) <br>
+[Ryan]() <br>
+[Trinley]() <br>
+[Leto](https://khilitt.github.io/VirtualPet/) <br>
+[Melanie]( ) <br>
+[Rosa](https://rosapplesauce.github.io/VirtualPet/) <br>
+[Diego]( ) <br>
+[Nico](https://nicolastaccetti.github.io/NTVirtualPet/) <br>
+[Giselle]( ) <br>
 
 
