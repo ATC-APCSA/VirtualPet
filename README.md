@@ -30,14 +30,14 @@ Sample Virtual Pet Pages:
 [Yailyn](https://yailyn441.github.io/VirtualPet/) <br>
 [Leto](https://khilitt.github.io/VirtualPet/) <br>
 [Rosa](https://rosapplesauce.github.io/VirtualPet/) <br>
-Elena
-Ryan
-Trinley
-Leto
-Melanie
-Rosa
-Diego
-Nico
-Giselle
+Elena () <br>
+Ryan () <br>
+Trinley () <br>
+Leto () <br>
+Melanie () <br>
+Rosa () <br>
+Diego () <br>
+Nico () <br>
+Giselle () <br>
 
 
